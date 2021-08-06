@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+## Wer ist der Verein Alumni HSR und welche Ziele verfolgt er?
 
-You can use the [editor on GitHub](https://github.com/alumnihsr/alumnihsr.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Der Verein Alumni HSR ging mit der GV 2015 aus dem Verein ETR – Ehemalige Studierende der Hochschule Rapperswil – hervor, welcher seit 1975 bestand, dem Studienabschluss-Jahr der ersten HSR-Absolventen.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Sinn unseres Vereines Alumni HSR ist es, einen losen, über die Studienzeit hinausgehenden Kontakt weiter zu pflegen. Unsere Mitgliederzahl hat sich in all diesen Jahren auf ca. 800 Mitglieder erhöht.
 
-### Markdown
+Unser Verein wird von einem Vorstand ehrenamtlich geführt. Die Webseiten "alumnihsr.ch" und "etrweb.ch" sind identisch.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Vorteile einer Mitgliedschaft
 
-```markdown
-Syntax highlighted code block
+Der Verein Alumni HSR bietet Dir vielfältige, attraktive Angebote:
 
-# Header 1
-## Header 2
-### Header 3
+- Aufbau und Pflege persönlicher Netzwerke
+- Interessante Exkursionen, spannende Besichtigungen
+- Automatische FH-Schweiz-Mitgliedschaft
+- Vergünstigungen für Abonnemente von Tageszeitungen (FH Schweiz)
+- Kostenloses Abonnement der Zeitschrift INLINE der FH Schweiz
+- Günstige Krankenkassen- und Versicherungsprämien (FH Schweiz)
 
-- Bulleted
-- List
+ Melde Dich hier online zur Mitgliedschaft an. Wir freuen uns auf Dein Mitmachen!
+ 
+ [Anmeldung](https://www.alumnihsr.ch/mitgliederdienst/mitgliedwerden.html)
+ 
+## Organisation 
 
-1. Numbered
-2. List
+- Präsident: Matthias Okumus
+- Kassier: Felix Tobler
+- Veranstaltungen: Daniel Nussbaumer
+- Aktuar: Simon Schaefer
 
-**Bold** and _Italic_ and `Code` text
+## Statuten
 
-[Link](url) and ![Image](src)
-```
+[Statuten Alumni HSR vom 21. November 2015](https://www.alumnihsr.ch/alumnihsr/dokumente/Alumni_HSR_Statuten_2015.pdf)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Veranstaltungen
 
-### Jekyll Themes
+- 19.09.2021 | Besuch Schwyzer Festungswerke | Informationen & Anmeldung folgen
+- 01.10.2021 | Diplomfeier Campus Rapperswil
+- 13.11.2021 | Generalversammlung | Informationen & Anmeldung folgen
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alumnihsr/alumnihsr.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Archiv](https://www.alumnihsr.ch/archiv/index.html)
 
-### Support or Contact
+## Kontakt
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Alumni HSR, Postfach 1071, 8640 Rapperswil-Jona
+- [Kontaktformular](https://www.alumnihsr.ch/kontakt/kontakt.html)
+
+## Links
+
+- [FH Schweiz](https://www.fhschweiz.ch/)
+- [OST Campus Rapperswil](https://www.ost.ch/de/die-ost/campus/campus-rapperswil-jona)
+- [AlumniOST](https://www.ost.ch/de/fachhochschule/alumni)
+- [LinkedIn Gruppe](https://www.linkedin.com/groups/8114345/profile)
