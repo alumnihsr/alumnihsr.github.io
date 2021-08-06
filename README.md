@@ -1,4 +1,4 @@
-## Wer ist der Verein Alumni HSR und welche Ziele verfolgt er?
+## AlumniHSR
 
 Der Verein Alumni HSR ging mit der GV 2015 aus dem Verein ETR – Ehemalige Studierende der Hochschule Rapperswil – hervor, welcher seit 1975 bestand, dem Studienabschluss-Jahr der ersten HSR-Absolventen.
 
@@ -23,10 +23,10 @@ Der Verein Alumni HSR bietet Dir vielfältige, attraktive Angebote:
  
 ## Organisation 
 
-Präsident | Matthias Okumus
-Kassier | Felix Tobler
-Veranstaltungen | Daniel Nussbaumer
-Aktuar | Simon Schaefer
+- Matthias Okumus, Präsident
+- Felix Tobler, Kassier
+- Daniel Nussbaumer, Veranstaltungen
+- Simon Schaefer, Aktuar
 
 ## Statuten
 
@@ -34,9 +34,9 @@ Aktuar | Simon Schaefer
 
 ## Veranstaltungen
 
-19.09.2021 | Besuch Schwyzer Festungswerke | Informationen & Anmeldung folgen
-01.10.2021 | Diplomfeier Campus Rapperswil | 
-13.11.2021 | Generalversammlung | Informationen & Anmeldung folgen
+- 19.09.2021 Besuch Schwyzer Festungswerke, Informationen & Anmeldung folgen
+- 01.10.2021 Diplomfeier Campus Rapperswil 
+- 13.11.2021 Generalversammlung, Informationen & Anmeldung folgen
 
 [Archiv](https://www.alumnihsr.ch/archiv/index.html)
 
