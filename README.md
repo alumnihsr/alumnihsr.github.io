@@ -23,10 +23,10 @@ Der Verein Alumni HSR bietet Dir vielfältige, attraktive Angebote:
  
 ## Organisation 
 
-- Präsident: Matthias Okumus
-- Kassier: Felix Tobler
-- Veranstaltungen: Daniel Nussbaumer
-- Aktuar: Simon Schaefer
+Präsident | Matthias Okumus
+Kassier | Felix Tobler
+Veranstaltungen | Daniel Nussbaumer
+Aktuar | Simon Schaefer
 
 ## Statuten
 
@@ -34,9 +34,9 @@ Der Verein Alumni HSR bietet Dir vielfältige, attraktive Angebote:
 
 ## Veranstaltungen
 
-- 19.09.2021 | Besuch Schwyzer Festungswerke | Informationen & Anmeldung folgen
-- 01.10.2021 | Diplomfeier Campus Rapperswil
-- 13.11.2021 | Generalversammlung | Informationen & Anmeldung folgen
+19.09.2021 | Besuch Schwyzer Festungswerke | Informationen & Anmeldung folgen
+01.10.2021 | Diplomfeier Campus Rapperswil | 
+13.11.2021 | Generalversammlung | Informationen & Anmeldung folgen
 
 [Archiv](https://www.alumnihsr.ch/archiv/index.html)
 
